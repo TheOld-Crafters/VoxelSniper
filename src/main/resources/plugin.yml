@@ -22,10 +22,10 @@ commands:
     permission: voxelsniper.sniper
     alias: [default]
     usage: Invalid syntax. Use /<command> help to see valid syntax.
-  p:
+  perf:
     description: Change the currently active performer for the performer brush.
     permission: voxelsniper.sniper
-    aliases: [perf, performer]
+    aliases: [performer]
     usage: Invalid syntax. Use /<command> help to see valid syntax.
   sniper:
     description: View and change settings related to VoxelSniper.
